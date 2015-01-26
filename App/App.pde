@@ -26,13 +26,13 @@ Capture video;
 OpenCV opencv;
 PImage src;
 
-int maxColors = 4;
 
 // List of my blob groups
 BlobGroup[] blobGroups;
 float[] volumes;
 float fadingSpeed = 0.05;
 float minVol = 0.2;
+
 
 OscP5 osc;
 NetAddress remote;
