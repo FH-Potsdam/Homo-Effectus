@@ -1,5 +1,7 @@
 # Homo Effectus
 
+[Video of the installation in action](https://vimeo.com/113909158)
+
 ## E
 
 The Goal of the Course titled DIY (Multi) Touch (less) Human Computer Interaction was to develop a Musical Interface which could be controled with gestures like a director of an orchestra directs various instruments and voices. In hopes that we would develop a more expressive interface than regular knobs, sliders and buttons we thought of different gestures and interactions. These ranged from simple right-left-movements to more complex gestures with multiple step movements. After that we tried out different technologies to track body movements. After a few experiments with different Markertechnologies we concluded that within the timelimit the most reliable and simple technology to develop a functional interface would be color detection.
